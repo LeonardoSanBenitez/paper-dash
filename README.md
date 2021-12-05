@@ -37,3 +37,4 @@ And the output will look like:
 * Support more output formats: HTML, Excel, among others.
 * Support styles, themes, and other visual personalizations.
 * Make it available as pip package (yep, it is not yet)
+
